@@ -1,0 +1,9 @@
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\bin\Debug\Lab_1_CG.exe.config
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\bin\Debug\Lab_1_CG.exe
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\bin\Debug\Lab_1_CG.pdb
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\obj\Debug\Lab_1_CG.Form1.resources
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\obj\Debug\Lab_1_CG.Properties.Resources.resources
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\obj\Debug\Lab_1_CG.csproj.GenerateResource.cache
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\obj\Debug\Lab_1_CG.csproj.CoreCompileInputs.cache
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\obj\Debug\Lab_1_CG.exe
+D:\iitmm\Компьютерная графика\Lab_1_CG\Lab_1_CG\obj\Debug\Lab_1_CG.pdb
